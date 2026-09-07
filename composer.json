@@ -1,5 +1,5 @@
 {
-  "name": "pentiminax/ux-datatables",
+  "name": "jaycenet/ux-datatables",
   "description": "DataTables.net integration for Symfony",
   "license": "MIT",
   "type": "symfony-bundle",
