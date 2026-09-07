@@ -17,7 +17,7 @@ library in Symfony applications.
 Install the library via Composer:
 
 ```console
-composer require pentiminax/ux-datatables
+composer require jaycenet/ux-datatables
 ```
 
 ## Usage
